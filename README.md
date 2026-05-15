@@ -13,7 +13,6 @@ O projeto principal é o site desenvolvido em HTML.
 
 ##  Tecnologias
 - HTML
-- CSS
 
 ##  Autor
 João Ricardo
